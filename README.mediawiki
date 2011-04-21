@@ -1,0 +1,7 @@
+= Intro =
+It is a robot that mows a yard in a Java simulator. It needs some work.
+
+= License =
+[http://creativecommons.org/licenses/by-sa/3.0/us/ CC-by-sa]
+
+
